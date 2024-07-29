@@ -14,9 +14,9 @@ timezone: Europe/Amsterdam
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TypingPenguin's blog # the main title
+title: TypingPenguin # the main title
 
-tagline: My toughts and wiki for my goldfish brain # it will display as the sub-title
+tagline: Blog for my toughts and a wiki for my goldfish brain # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog about tech, software and hardware. A small wiki that I can use whenever I forget stuff
